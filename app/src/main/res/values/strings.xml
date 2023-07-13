@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="empty_input_error">Input Field Empty</string>
+    <string name="centimeters">centimeters</string>
+    <string name="meters">meters</string>
+    <string name="inches">inches</string>
+    <string name="feet">feet</string>
+
+    <string-array name="from_spinner">
+        <item>centimeters</item>
+        <item>meters</item>
+        <item>inches</item>
+        <item>feet</item>
+
+    </string-array>
+    
+    <string-array name="to_spinner">
+        <item>centimeters</item>
+        <item>meters</item>
+        <item>inches</item>
+        <item>feet</item>
+
+
+    </string-array>
+
+</resources>
